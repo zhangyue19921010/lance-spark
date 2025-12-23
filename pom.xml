@@ -370,7 +370,8 @@
                 <jdk>[11,)</jdk>
             </activation>
             <properties>
-                <maven.compiler.release>11</maven.compiler.release>
+                <java.release>11</java.release>
+                <maven.compiler.release>${java.release}</maven.compiler.release>
             </properties>
             <build>
                 <plugins>
