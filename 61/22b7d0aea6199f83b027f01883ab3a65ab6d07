@@ -1,0 +1,27 @@
+lance-spark-3.4_2.12/src/main/java/org/lance/spark/write/SparkPositionDeltaWrite.java
+  s_0419e49dfd198e::t_aee9bb842b83a0 147-149
+lance-spark-3.4_2.12/src/test/java/org/lance/spark/write/SparkPositionDeltaWriteTest.java
+  s_0419e49dfd198e::t_10118e6178bee6 34,38,51,65-69
+lance-spark-3.5_2.12/src/main/java/org/lance/spark/write/SparkPositionDeltaWrite.java
+  s_0419e49dfd198e::t_91df0d24c791fc 167-169
+lance-spark-3.5_2.12/src/test/java/org/lance/spark/write/SparkPositionDeltaWriteTest.java
+  s_0419e49dfd198e::t_9ee0504e91a1ae 34,39,52,73-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "6122b7d0aea6199f83b027f01883ab3a65ab6d07",
+  "prompts": {},
+  "sessions": {
+    "s_0419e49dfd198e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2aef-5b91-7fd2-985a-82ebaf0428c8",
+        "model": "unknown"
+      },
+      "human_author": "zhangyue19921010 <zhangyue.1010@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
